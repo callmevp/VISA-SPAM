@@ -1004,107 +1004,107 @@ async def start(event):
     if event.sender_id in SMEX_USERS:
      await idk.send_file(event.chat_id,
                                   USTAD_PIC,
-                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n 𝐑𝐄𝐀𝐃𝐘 𝐓𝐎 𝐅𝐔𝐂𝐊 𝐘𝐎𝐔𝐑 𝐇𝐀𝐓𝐄𝐑𝐒🔥\n\n➤ Owner: {ALIVE_NAME}\n➤ Creater: @CALL_ME_VP\n➤ Updates: @MissVisa_Official\n © 『ᴠɪsᴀ sᴘᴀᴍ ʙᴏᴛ』"                                
+                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n 𝐑𝐄𝐀𝐃𝐘 𝐓𝐎 𝐅𝐔𝐂𝐊 𝐘𝐎𝐔𝐑 𝐇𝐀𝐓𝐄𝐑𝐒🔥\n\n➤ Owner: f"{ALIVE_NAME}"\n➤ Creater: @CALL_ME_VP\n➤ Updates: @MissVisa_Official\n © 『ᴠɪsᴀ sᴘᴀᴍ ʙᴏᴛ』"                                
                               )
      await ydk.send_file(event.chat_id,
                                   USTAD_PIC,
-                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n 𝐑𝐄𝐀𝐃𝐘 𝐓𝐎 𝐅𝐔𝐂𝐊 𝐘𝐎𝐔𝐑 𝐇𝐀𝐓𝐄𝐑𝐒🔥\n\n➤ Owner: {ALIVE_NAME}\n➤ Creater: @CALL_ME_VP\n➤ Updates: @MissVisa_Official\n © 『ᴠɪsᴀ sᴘᴀᴍ ʙᴏᴛ』"                                
+                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n 𝐑𝐄𝐀𝐃𝐘 𝐓𝐎 𝐅𝐔𝐂𝐊 𝐘𝐎𝐔𝐑 𝐇𝐀𝐓𝐄𝐑𝐒🔥\n\n➤ Owner: f"{ALIVE_NAME}"\n➤ Creater: @CALL_ME_VP\n➤ Updates: @MissVisa_Official\n © 『ᴠɪsᴀ sᴘᴀᴍ ʙᴏᴛ』"                                
                               )
      await wdk.send_file(event.chat_id,
                                   USTAD_PIC,
-                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n 𝐑𝐄𝐀𝐃𝐘 𝐓𝐎 𝐅𝐔𝐂𝐊 𝐘𝐎𝐔𝐑 𝐇𝐀𝐓𝐄𝐑𝐒🔥\n\n➤ Owner: {ALIVE_NAME}\n➤ Creater: @CALL_ME_VP\n➤ Updates: @MissVisa_Official\n © 『ᴠɪsᴀ sᴘᴀᴍ ʙᴏᴛ』"                                
+                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n 𝐑𝐄𝐀𝐃𝐘 𝐓𝐎 𝐅𝐔𝐂𝐊 𝐘𝐎𝐔𝐑 𝐇𝐀𝐓𝐄𝐑𝐒🔥\n\n➤ Owner: f"{ALIVE_NAME}"\n➤ Creater: @CALL_ME_VP\n➤ Updates: @MissVisa_Official\n © 『ᴠɪsᴀ sᴘᴀᴍ ʙᴏᴛ』"                                
                               )
      await hdk.send_file(event.chat_id,
                                   USTAD_PIC,
-                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n 𝐑𝐄𝐀𝐃𝐘 𝐓𝐎 𝐅𝐔𝐂𝐊 𝐘𝐎𝐔𝐑 𝐇𝐀𝐓𝐄𝐑𝐒🔥\n\n➤ Owner: {ALIVE_NAME}\n➤ Creater: @CALL_ME_VP\n➤ Updates: @MissVisa_Official\n © 『ᴠɪsᴀ sᴘᴀᴍ ʙᴏᴛ』"                                
+                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n 𝐑𝐄𝐀𝐃𝐘 𝐓𝐎 𝐅𝐔𝐂𝐊 𝐘𝐎𝐔𝐑 𝐇𝐀𝐓𝐄𝐑𝐒🔥\n\n➤ Owner: f"{ALIVE_NAME}"\n➤ Creater: @CALL_ME_VP\n➤ Updates: @MissVisa_Official\n © 『ᴠɪsᴀ sᴘᴀᴍ ʙᴏᴛ』"                                
                               )
      await sdk.send_file(event.chat_id,
                                   USTAD_PIC,
-                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n 𝐑𝐄𝐀𝐃𝐘 𝐓𝐎 𝐅𝐔𝐂𝐊 𝐘𝐎𝐔𝐑 𝐇𝐀𝐓𝐄𝐑𝐒🔥\n\n➤ Owner: {ALIVE_NAME}\n➤ Creater: @CALL_ME_VP\n➤ Updates: @MissVisa_Official\n © 『ᴠɪsᴀ sᴘᴀᴍ ʙᴏᴛ』"                                
+                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n 𝐑𝐄𝐀𝐃𝐘 𝐓𝐎 𝐅𝐔𝐂𝐊 𝐘𝐎𝐔𝐑 𝐇𝐀𝐓𝐄𝐑𝐒🔥\n\n➤ Owner: f"{ALIVE_NAME}"\n➤ Creater: @CALL_ME_VP\n➤ Updates: @MissVisa_Official\n © 『ᴠɪsᴀ sᴘᴀᴍ ʙᴏᴛ』"                                
                               )
      await adk.send_file(event.chat_id,
                                   USTAD_PIC,
-                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n 𝐑𝐄𝐀𝐃𝐘 𝐓𝐎 𝐅𝐔𝐂𝐊 𝐘𝐎𝐔𝐑 𝐇𝐀𝐓𝐄𝐑𝐒🔥\n\n➤ Owner: {ALIVE_NAME}\n➤ Creater: @CALL_ME_VP\n➤ Updates: @MissVisa_Official\n © 『ᴠɪsᴀ sᴘᴀᴍ ʙᴏᴛ』"                                
+                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n 𝐑𝐄𝐀𝐃𝐘 𝐓𝐎 𝐅𝐔𝐂𝐊 𝐘𝐎𝐔𝐑 𝐇𝐀𝐓𝐄𝐑𝐒🔥\n\n➤ Owner: f"{ALIVE_NAME}"\n➤ Creater: @CALL_ME_VP\n➤ Updates: @MissVisa_Official\n © 『ᴠɪsᴀ sᴘᴀᴍ ʙᴏᴛ』"                                
                               )
      await bdk.send_file(event.chat_id,
                                   USTAD_PIC,
-                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n 𝐑𝐄𝐀𝐃𝐘 𝐓𝐎 𝐅𝐔𝐂𝐊 𝐘𝐎𝐔𝐑 𝐇𝐀𝐓𝐄𝐑𝐒🔥\n\n➤ Owner: {ALIVE_NAME}\n➤ Creater: @CALL_ME_VP\n➤ Updates: @MissVisa_Official\n © 『ᴠɪsᴀ sᴘᴀᴍ ʙᴏᴛ』"                                
+                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n 𝐑𝐄𝐀𝐃𝐘 𝐓𝐎 𝐅𝐔𝐂𝐊 𝐘𝐎𝐔𝐑 𝐇𝐀𝐓𝐄𝐑𝐒🔥\n\n➤ Owner: f"{ALIVE_NAME}"\n➤ Creater: @CALL_ME_VP\n➤ Updates: @MissVisa_Official\n © 『ᴠɪsᴀ sᴘᴀᴍ ʙᴏᴛ』"                                
                               )
      await cdk.send_file(event.chat_id,
                                   USTAD_PIC,
-                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n 𝐑𝐄𝐀𝐃𝐘 𝐓𝐎 𝐅𝐔𝐂𝐊 𝐘𝐎𝐔𝐑 𝐇𝐀𝐓𝐄𝐑𝐒🔥\n\n➤ Owner: {ALIVE_NAME}\n➤ Creater: @CALL_ME_VP\n➤ Updates: @MissVisa_Official\n © 『ᴠɪsᴀ sᴘᴀᴍ ʙᴏᴛ』"                                
+                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n 𝐑𝐄𝐀𝐃𝐘 𝐓𝐎 𝐅𝐔𝐂𝐊 𝐘𝐎𝐔𝐑 𝐇𝐀𝐓𝐄𝐑𝐒🔥\n\n➤ Owner: f"{ALIVE_NAME}"\n➤ Creater: @CALL_ME_VP\n➤ Updates: @MissVisa_Official\n © 『ᴠɪsᴀ sᴘᴀᴍ ʙᴏᴛ』"                                
                               )
      await edk.send_file(event.chat_id,
                                   USTAD_PIC,
-                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n 𝐑𝐄𝐀𝐃𝐘 𝐓𝐎 𝐅𝐔𝐂𝐊 𝐘𝐎𝐔𝐑 𝐇𝐀𝐓𝐄𝐑𝐒🔥\n\n➤ Owner: {ALIVE_NAME}\n➤ Creater: @CALL_ME_VP\n➤ Updates: @MissVisa_Official\n © 『ᴠɪsᴀ sᴘᴀᴍ ʙᴏᴛ』"                                
+                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n 𝐑𝐄𝐀𝐃𝐘 𝐓𝐎 𝐅𝐔𝐂𝐊 𝐘𝐎𝐔𝐑 𝐇𝐀𝐓𝐄𝐑𝐒🔥\n\n➤ Owner: f"{ALIVE_NAME}"\n➤ Creater: @CALL_ME_VP\n➤ Updates: @MissVisa_Official\n © 『ᴠɪsᴀ sᴘᴀᴍ ʙᴏᴛ』"                                
                               )
      await hdk.send_file(event.chat_id,
                                   USTAD_PIC,
-                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n 𝐑𝐄𝐀𝐃𝐘 𝐓𝐎 𝐅𝐔𝐂𝐊 𝐘𝐎𝐔𝐑 𝐇𝐀𝐓𝐄𝐑𝐒🔥\n\n➤ Owner: {ALIVE_NAME}\n➤ Creater: @CALL_ME_VP\n➤ Updates: @MissVisa_Official\n © 『ᴠɪsᴀ sᴘᴀᴍ ʙᴏᴛ』"                                
+                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n 𝐑𝐄𝐀𝐃𝐘 𝐓𝐎 𝐅𝐔𝐂𝐊 𝐘𝐎𝐔𝐑 𝐇𝐀𝐓𝐄𝐑𝐒🔥\n\n➤ Owner: f"{ALIVE_NAME}"\n➤ Creater: @CALL_ME_VP\n➤ Updates: @MissVisa_Official\n © 『ᴠɪsᴀ sᴘᴀᴍ ʙᴏᴛ』"                                
                               )
      await ddk.send_file(event.chat_id,
                                   USTAD_PIC,
-                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n 𝐑𝐄𝐀𝐃𝐘 𝐓𝐎 𝐅𝐔𝐂𝐊 𝐘𝐎𝐔𝐑 𝐇𝐀𝐓𝐄𝐑𝐒🔥\n\n➤ Owner: {ALIVE_NAME}\n➤ Creater: @CALL_ME_VP\n➤ Updates: @MissVisa_Official\n © 『ᴠɪsᴀ sᴘᴀᴍ ʙᴏᴛ』"                                
+                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n 𝐑𝐄𝐀𝐃𝐘 𝐓𝐎 𝐅𝐔𝐂𝐊 𝐘𝐎𝐔𝐑 𝐇𝐀𝐓𝐄𝐑𝐒🔥\n\n➤ Owner: f"{ALIVE_NAME}"\n➤ Creater: @CALL_ME_VP\n➤ Updates: @MissVisa_Official\n © 『ᴠɪsᴀ sᴘᴀᴍ ʙᴏᴛ』"                                
                               )
      await vkk.send_file(event.chat_id,
                                   USTAD_PIC,
-                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n 𝐑𝐄𝐀𝐃𝐘 𝐓𝐎 𝐅𝐔𝐂𝐊 𝐘𝐎𝐔𝐑 𝐇𝐀𝐓𝐄𝐑𝐒🔥\n\n➤ Owner: {ALIVE_NAME}\n➤ Creater: @CALL_ME_VP\n➤ Updates: @MissVisa_Official\n © 『ᴠɪsᴀ sᴘᴀᴍ ʙᴏᴛ』"                                
+                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n 𝐑𝐄𝐀𝐃𝐘 𝐓𝐎 𝐅𝐔𝐂𝐊 𝐘𝐎𝐔𝐑 𝐇𝐀𝐓𝐄𝐑𝐒🔥\n\n➤ Owner: f"{ALIVE_NAME}"\n➤ Creater: @CALL_ME_VP\n➤ Updates: @MissVisa_Official\n © 『ᴠɪsᴀ sᴘᴀᴍ ʙᴏᴛ』"                                
                               )
      await kkk.send_file(event.chat_id,
                                   USTAD_PIC,
-                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n 𝐑𝐄𝐀𝐃𝐘 𝐓𝐎 𝐅𝐔𝐂𝐊 𝐘𝐎𝐔𝐑 𝐇𝐀𝐓𝐄𝐑𝐒🔥\n\n➤ Owner: {ALIVE_NAME}\n➤ Creater: @CALL_ME_VP\n➤ Updates: @MissVisa_Official\n © 『ᴠɪsᴀ sᴘᴀᴍ ʙᴏᴛ』"                                
+                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n 𝐑𝐄𝐀𝐃𝐘 𝐓𝐎 𝐅𝐔𝐂𝐊 𝐘𝐎𝐔𝐑 𝐇𝐀𝐓𝐄𝐑𝐒🔥\n\n➤ Owner: f"{ALIVE_NAME}"\n➤ Creater: @CALL_ME_VP\n➤ Updates: @MissVisa_Official\n © 『ᴠɪsᴀ sᴘᴀᴍ ʙᴏᴛ』"                                
                               )
      await lkk.send_file(event.chat_id,
                                   USTAD_PIC,
-                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n 𝐑𝐄𝐀𝐃𝐘 𝐓𝐎 𝐅𝐔𝐂𝐊 𝐘𝐎𝐔𝐑 𝐇𝐀𝐓𝐄𝐑𝐒🔥\n\n➤ Owner: {ALIVE_NAME}\n➤ Creater: @CALL_ME_VP\n➤ Updates: @MissVisa_Official\n © 『ᴠɪsᴀ sᴘᴀᴍ ʙᴏᴛ』"                                
+                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n 𝐑𝐄𝐀𝐃𝐘 𝐓𝐎 𝐅𝐔𝐂𝐊 𝐘𝐎𝐔𝐑 𝐇𝐀𝐓𝐄𝐑𝐒🔥\n\n➤ Owner: f"{ALIVE_NAME}"\n➤ Creater: @CALL_ME_VP\n➤ Updates: @MissVisa_Official\n © 『ᴠɪsᴀ sᴘᴀᴍ ʙᴏᴛ』"                                
                               )
      await mkk.send_file(event.chat_id,
                                   USTAD_PIC,
-                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n 𝐑𝐄𝐀𝐃𝐘 𝐓𝐎 𝐅𝐔𝐂𝐊 𝐘𝐎𝐔𝐑 𝐇𝐀𝐓𝐄𝐑𝐒🔥\n\n➤ Owner: {ALIVE_NAME}\n➤ Creater: @CALL_ME_VP\n➤ Updates: @MissVisa_Official\n © 『ᴠɪsᴀ sᴘᴀᴍ ʙᴏᴛ』"                                
+                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n 𝐑𝐄𝐀𝐃𝐘 𝐓𝐎 𝐅𝐔𝐂𝐊 𝐘𝐎𝐔𝐑 𝐇𝐀𝐓𝐄𝐑𝐒🔥\n\n➤ Owner: f"{ALIVE_NAME}"\n➤ Creater: @CALL_ME_VP\n➤ Updates: @MissVisa_Official\n © 『ᴠɪsᴀ sᴘᴀᴍ ʙᴏᴛ』"                                
                               )
      await sid.send_file(event.chat_id,
                                   USTAD_PIC,
-                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n 𝐑𝐄𝐀𝐃𝐘 𝐓𝐎 𝐅𝐔𝐂𝐊 𝐘𝐎𝐔𝐑 𝐇𝐀𝐓𝐄𝐑𝐒🔥\n\n➤ Owner: {ALIVE_NAME}\n➤ Creater: @CALL_ME_VP\n➤ Updates: @MissVisa_Official\n © 『ᴠɪsᴀ sᴘᴀᴍ ʙᴏᴛ』"                                
+                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n 𝐑𝐄𝐀𝐃𝐘 𝐓𝐎 𝐅𝐔𝐂𝐊 𝐘𝐎𝐔𝐑 𝐇𝐀𝐓𝐄𝐑𝐒🔥\n\n➤ Owner: f"{ALIVE_NAME}"\n➤ Creater: @CALL_ME_VP\n➤ Updates: @MissVisa_Official\n © 『ᴠɪsᴀ sᴘᴀᴍ ʙᴏᴛ』"                                
                               )
      await shy.send_file(event.chat_id,
                                   USTAD_PIC,
-                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n 𝐑𝐄𝐀𝐃𝐘 𝐓𝐎 𝐅𝐔𝐂𝐊 𝐘𝐎𝐔𝐑 𝐇𝐀𝐓𝐄𝐑𝐒🔥\n\n➤ Owner: {ALIVE_NAME}\n➤ Creater: @CALL_ME_VP\n➤ Updates: @MissVisa_Official\n © 『ᴠɪsᴀ sᴘᴀᴍ ʙᴏᴛ』"                                
+                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n 𝐑𝐄𝐀𝐃𝐘 𝐓𝐎 𝐅𝐔𝐂𝐊 𝐘𝐎𝐔𝐑 𝐇𝐀𝐓𝐄𝐑𝐒🔥\n\n➤ Owner: f"{ALIVE_NAME}"\n➤ Creater: @CALL_ME_VP\n➤ Updates: @MissVisa_Official\n © 『ᴠɪsᴀ sᴘᴀᴍ ʙᴏᴛ』"                                
                               )
      await aan.send_file(event.chat_id,
                                   USTAD_PIC,
-                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n 𝐑𝐄𝐀𝐃𝐘 𝐓𝐎 𝐅𝐔𝐂𝐊 𝐘𝐎𝐔𝐑 𝐇𝐀𝐓𝐄𝐑𝐒🔥\n\n➤ Owner: {ALIVE_NAME}\n➤ Creater: @CALL_ME_VP\n➤ Updates: @MissVisa_Official\n © 『ᴠɪsᴀ sᴘᴀᴍ ʙᴏᴛ』"                                
+                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n 𝐑𝐄𝐀𝐃𝐘 𝐓𝐎 𝐅𝐔𝐂𝐊 𝐘𝐎𝐔𝐑 𝐇𝐀𝐓𝐄𝐑𝐒🔥\n\n➤ Owner: f"{ALIVE_NAME}"\n➤ Creater: @CALL_ME_VP\n➤ Updates: @MissVisa_Official\n © 『ᴠɪsᴀ sᴘᴀᴍ ʙᴏᴛ』"                                
                               )
      await ake.send_file(event.chat_id,
                                   USTAD_PIC,
-                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n 𝐑𝐄𝐀𝐃𝐘 𝐓𝐎 𝐅𝐔𝐂𝐊 𝐘𝐎𝐔𝐑 𝐇𝐀𝐓𝐄𝐑𝐒🔥\n\n➤ Owner: {ALIVE_NAME}\n➤ Creater: @CALL_ME_VP\n➤ Updates: @MissVisa_Official\n © 『ᴠɪsᴀ sᴘᴀᴍ ʙᴏᴛ』"                                
+                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n 𝐑𝐄𝐀𝐃𝐘 𝐓𝐎 𝐅𝐔𝐂𝐊 𝐘𝐎𝐔𝐑 𝐇𝐀𝐓𝐄𝐑𝐒🔥\n\n➤ Owner: f"{ALIVE_NAME}"\n➤ Creater: @CALL_ME_VP\n➤ Updates: @MissVisa_Official\n © 『ᴠɪsᴀ sᴘᴀᴍ ʙᴏᴛ』"                                
                               )
      await eel.send_file(event.chat_id,
                                   USTAD_PIC,
-                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n 𝐑𝐄𝐀𝐃𝐘 𝐓𝐎 𝐅𝐔𝐂𝐊 𝐘𝐎𝐔𝐑 𝐇𝐀𝐓𝐄𝐑𝐒🔥\n\n➤ Owner: {ALIVE_NAME}\n➤ Creater: @CALL_ME_VP\n➤ Updates: @MissVisa_Official\n © 『ᴠɪsᴀ sᴘᴀᴍ ʙᴏᴛ』"                                
+                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n 𝐑𝐄𝐀𝐃𝐘 𝐓𝐎 𝐅𝐔𝐂𝐊 𝐘𝐎𝐔𝐑 𝐇𝐀𝐓𝐄𝐑𝐒🔥\n\n➤ Owner: f"{ALIVE_NAME}"\n➤ Creater: @CALL_ME_VP\n➤ Updates: @MissVisa_Official\n © 『ᴠɪsᴀ sᴘᴀᴍ ʙᴏᴛ』"                                
                               )
      await khu.send_file(event.chat_id,
                                   USTAD_PIC,
-                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n 𝐑𝐄𝐀𝐃𝐘 𝐓𝐎 𝐅𝐔𝐂𝐊 𝐘𝐎𝐔𝐑 𝐇𝐀𝐓𝐄𝐑𝐒🔥\n\n➤ Owner: {ALIVE_NAME}\n➤ Creater: @CALL_ME_VP\n➤ Updates: @MissVisa_Official\n © 『ᴠɪsᴀ sᴘᴀᴍ ʙᴏᴛ』"                                
+                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n 𝐑𝐄𝐀𝐃𝐘 𝐓𝐎 𝐅𝐔𝐂𝐊 𝐘𝐎𝐔𝐑 𝐇𝐀𝐓𝐄𝐑𝐒🔥\n\n➤ Owner: f"{ALIVE_NAME}"\n➤ Creater: @CALL_ME_VP\n➤ Updates: @MissVisa_Official\n © 『ᴠɪsᴀ sᴘᴀᴍ ʙᴏᴛ』"                                
                               )
      await shi.send_file(event.chat_id,
                                   USTAD_PIC,
-                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n 𝐑𝐄𝐀𝐃𝐘 𝐓𝐎 𝐅𝐔𝐂𝐊 𝐘𝐎𝐔𝐑 𝐇𝐀𝐓𝐄𝐑𝐒🔥\n\n➤ Owner: {ALIVE_NAME}\n➤ Creater: @CALL_ME_VP\n➤ Updates: @MissVisa_Official\n © 『ᴠɪsᴀ sᴘᴀᴍ ʙᴏᴛ』"                                
+                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n 𝐑𝐄𝐀𝐃𝐘 𝐓𝐎 𝐅𝐔𝐂𝐊 𝐘𝐎𝐔𝐑 𝐇𝐀𝐓𝐄𝐑𝐒🔥\n\n➤ Owner: f"{ALIVE_NAME}"\n➤ Creater: @CALL_ME_VP\n➤ Updates: @MissVisa_Official\n © 『ᴠɪsᴀ sᴘᴀᴍ ʙᴏᴛ』"                                
                               )
      await yaa.send_file(event.chat_id,
                                   USTAD_PIC,
-                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n 𝐑𝐄𝐀𝐃𝐘 𝐓𝐎 𝐅𝐔𝐂𝐊 𝐘𝐎𝐔𝐑 𝐇𝐀𝐓𝐄𝐑𝐒🔥\n\n➤ Owner: {ALIVE_NAME}\n➤ Creater: @CALL_ME_VP\n➤ Updates: @MissVisa_Official\n © 『ᴠɪsᴀ sᴘᴀᴍ ʙᴏᴛ』"                                
+                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n 𝐑𝐄𝐀𝐃𝐘 𝐓𝐎 𝐅𝐔𝐂𝐊 𝐘𝐎𝐔𝐑 𝐇𝐀𝐓𝐄𝐑𝐒🔥\n\n➤ Owner: f"{ALIVE_NAME}"\n➤ Creater: @CALL_ME_VP\n➤ Updates: @MissVisa_Official\n © 『ᴠɪsᴀ sᴘᴀᴍ ʙᴏᴛ』"                                
                               )
      await dav.send_file(event.chat_id,
                                   USTAD_PIC,
-                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n 𝐑𝐄𝐀𝐃𝐘 𝐓𝐎 𝐅𝐔𝐂𝐊 𝐘𝐎𝐔𝐑 𝐇𝐀𝐓𝐄𝐑𝐒🔥\n\n➤ Owner: {ALIVE_NAME}\n➤ Creater: @CALL_ME_VP\n➤ Updates: @MissVisa_Official\n © 『ᴠɪsᴀ sᴘᴀᴍ ʙᴏᴛ』"                                
+                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n 𝐑𝐄𝐀𝐃𝐘 𝐓𝐎 𝐅𝐔𝐂𝐊 𝐘𝐎𝐔𝐑 𝐇𝐀𝐓𝐄𝐑𝐒🔥\n\n➤ Owner: f"{ALIVE_NAME}"\n➤ Creater: @CALL_ME_VP\n➤ Updates: @MissVisa_Official\n © 『ᴠɪsᴀ sᴘᴀᴍ ʙᴏᴛ』"                                
                               )
      await raj.send_file(event.chat_id,
                                   USTAD_PIC,
-                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n 𝐑𝐄𝐀𝐃𝐘 𝐓𝐎 𝐅𝐔𝐂𝐊 𝐘𝐎𝐔𝐑 𝐇𝐀𝐓𝐄𝐑𝐒🔥\n\n➤ Owner: {ALIVE_NAME}\n➤ Creater: @CALL_ME_VP\n➤ Updates: @MissVisa_Official\n © 『ᴠɪsᴀ sᴘᴀᴍ ʙᴏᴛ』"                                
+                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n 𝐑𝐄𝐀𝐃𝐘 𝐓𝐎 𝐅𝐔𝐂𝐊 𝐘𝐎𝐔𝐑 𝐇𝐀𝐓𝐄𝐑𝐒🔥\n\n➤ Owner: f"{ALIVE_NAME}"\n➤ Creater: @CALL_ME_VP\n➤ Updates: @MissVisa_Official\n © 『ᴠɪsᴀ sᴘᴀᴍ ʙᴏᴛ』"                                
                               )
      await put.send_file(event.chat_id,
                                   USTAD_PIC,
-                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n 𝐑𝐄𝐀𝐃𝐘 𝐓𝐎 𝐅𝐔𝐂𝐊 𝐘𝐎𝐔𝐑 𝐇𝐀𝐓𝐄𝐑𝐒🔥\n\n➤ Owner: {ALIVE_NAME}\n➤ Creater: @CALL_ME_VP\n➤ Updates: @MissVisa_Official\n © 『ᴠɪsᴀ sᴘᴀᴍ ʙᴏᴛ』"                                
+                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n 𝐑𝐄𝐀𝐃𝐘 𝐓𝐎 𝐅𝐔𝐂𝐊 𝐘𝐎𝐔𝐑 𝐇𝐀𝐓𝐄𝐑𝐒🔥\n\n➤ Owner: f"{ALIVE_NAME}"\n➤ Creater: @CALL_ME_VP\n➤ Updates: @MissVisa_Official\n © 『ᴠɪsᴀ sᴘᴀᴍ ʙᴏᴛ』"                                
                               )        
 @idk.on(events.NewMessage(incoming=True, pattern=r"\.spam"))
 @ydk.on(events.NewMessage(incoming=True, pattern=r"\.spam"))
